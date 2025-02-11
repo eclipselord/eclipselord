@@ -1,4 +1,4 @@
-
+![logo](https://github.com/eclipselord/eclipselord/blob/main/Hi!.png)
 <h1 align="center">Hi 👋, I'm Suparna Ghosh</h1>
 <h3 align="center">A passionate Web Designer</h3>
 
